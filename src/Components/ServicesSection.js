@@ -11,10 +11,6 @@ import bigdata from '../img/bigdata.svg';
 import cloudcomputing from '../img/cloudcomputing.svg';
 import others from '../img/others.svg';
 
-
-
-import gamedev from '../img/game-dev.svg';
-
 function ServicesSection() {
     return (
         <InnerLayout>

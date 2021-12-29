@@ -20,34 +20,37 @@ function Resume() {
                 <div className="resume-content">
                     <ResumeItem 
                         year={'Sept 2021 - Dec 2021'} 
-                        title={'Graduate Teaching Assistant in Reinforcement Learning (Part-Time)'}
-                        subTitle={'Columbia University in the city of New York'}
-                        text={'Worked with Professor Chong Li as a graduate teaching assistant for Reinforcement Learning course responsible for imparting sessions, grading assignments and clarifying subject related doubts of the students.'} 
+                        title={'Graduate Teaching Assistant in Reinforcement Learning'}
+                        subTitle={'Columbia University in the city of New York - [Part-Time]'}
+                        text={['Worked as a graduate teaching assistant for the Reinforcement Learning course responsible for taking coding sessions, grading assignments and clarifying subject related doubts of the students.']} 
                     />
                     <ResumeItem 
                         year={'Jun 2021 - Aug 2021'} 
                         title={'Software Engineering - Engineer I'}
-                        subTitle={'FICO'}
+                        subTitle={'FICO - [Data Science and Engineering Department]'}
                         text={[
-                            'Designed and developed FICO Data Orchestrator software with an event-driven distributed architecture from scratch; Integrated with 10+ FICO internal applications for capturing and logging events, application tracking, and creating tableau reports on collected data; Collaborated and interacted with 4 cross-functional teams including clients, technical writers, user designers and quality assurance team on $6 MM web-based consumer portal',
-                            'Performed Natural Language Processing, Modelling and Sentimental Analysis on Equity research reports integrated with FICO Score Platform for generating consumer risk score with 93% accuracy.'
+                            'Developed an event-driven application framework (using Java, Kafka, Kubernetes APIs) to capture and monitor data events from 15+ applications. It also generates automated Tableau reports and sends alerts in case of any application malfunction. It helped in improving client services and reducing labour costs by $400000.',
+                            'Worked on a sentimental analysis model (93% accuracy) using NLP and Data Modelling on equity research reports required for generating a consumer risk score.'
                         ]} 
                     />
                     <ResumeItem 
                         year={'July 2020 - June 2021'} 
                         title={'Software Engineering - Associate'}
-                        subTitle={'FICO'}
+                        subTitle={'FICO - [Data Science and Engineering Department]'}
                         text={[
-                            'Proposed and developed features for a Data Analytics Platform named FICO Analytics Workbench supporting Visual Data Exploration, Fairness Detection, Drag and drop ML modelling using Big Data, ML and Software Engineering',
-                            'Built and deployed AI-powered autonomic auto-scaling prediction model; Created REST APIs for cloud resource provisioning using Neural networks and Ensemble methods used to generate optimized resource configuration for dynamically provisioning up cloud resources; 96% model accuracy; Reduced overall AWS Billing Cost by $5MM.'
+                            'Worked on the backend architecture, supervised machine learning and data wrangling distributed algorithms for a $3M project named "FICO Analytics Workbench" using Java, Scala and Spark.',
+                            'Designed and developed an AI-powered machine learning model using Neural Networks with ensemble methods for generating optimal AWS infrastructure resource deployment configuration. It helped in reducing overall AWS billing cost by $1M.'
                         ]} 
                     />
                     <ResumeItem 
                         year={'Mar 2019 - June 2020'} 
                         title={'Software Engineering - Intern'}
-                        subTitle={'FICO'}
-                        text={['Developed a microservice architecture-based software framework from scratch under FICO Platform supporting execution of Batch Jobs, Data Streaming Jobs, Data Pipelines and dynamic provisioning of Cloud Resources on AWS.',
-                        'Worked on Performance Optimization, Code Coverage, Unit Testing of Software and resolved 100+ Jira Defects with zero backlogs.']} 
+                        subTitle={'FICO - [Data Science and Engineering Department]'}
+                        text={['Created RESTful web services from scratch for managing and executing Spark Batch Jobs, Data Streaming Jobs using Java, Scala, Kafka, Spring and PySpark used by 15+ internal applications supporting multiple input and output data formats (AVRO, Parquet, JSON, XML, CSV).',
+                        'Worked on code refactoring, code coverage and unit testing of 4+ applications resulted in application performance improvement by 30% on average.',
+                        'Debugged and resolved 60+ JIRA production issues related to various software applications raised by the product owners without any backlogs.'
+                    ]}
+
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -56,7 +59,7 @@ function Resume() {
                 <div className="resume-content ">
                     <ResumeItem 
                         year={'Sep 2021 - Dec 2022'} 
-                        title={'MS in Data Science (Under Computer Science)'}
+                        title={'M.S. in Data Science (Under Computer Science)'}
                         subTitle={'Columbia University in the city of New York'}
                         text={'Coursework: Advanced Data Structures and Algorithms, Neural Networks and Deep Learning (Research-Based), Reinforcement Learning, Probability, Statistics and Inference Modelling, Exploratory Data Analytics and Visualization.'} 
                     />
