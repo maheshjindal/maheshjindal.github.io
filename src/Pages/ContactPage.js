@@ -13,7 +13,7 @@ function ContactPage() {
     const email = <EmailIcon />
     const location = <LocationOnIcon />
     const isValid = (field) => (field != null && field.length > 0);
-    const destinationEmail = "mahesh.jindal6@gmail.com";
+    const destinationEmail = "mj3038@columbia.edu";
 
     const handleSubmit= (e) => {
         e.preventDefault();
@@ -65,8 +65,8 @@ function ContactPage() {
                 </div>
                 <div className="right-content">
                     <ContactItem title={'Phone'} icon={phone} cont1={'(+1) 917 349-4687'} />
-                    <ContactItem title={'Email'} icon={email} cont1={'mahesh.jindal6@gmail.com'} />
-                    <ContactItem title={'Address'} icon={location} cont1={'New York, NY'} cont2={'United States'} />
+                    <ContactItem title={'Email'} icon={email} cont1={'mj3038@columbia.edu'} />
+                    <ContactItem title={'Address'} icon={location} cont1={'Columbia University, New York, NY'} cont2={'United States'} />
                     
                 </div>
             </InnerLayout>
