@@ -21,23 +21,23 @@ const portfolios = [
         image: data,
         link1: 'https://github.com/maheshjindal/us_drug_abuse_analytics',
         title: 'Drug Abuse Analytics in United States',
-        text: 'Technologies:  R, ggplot, d3.js, R Markdown'
+        text: 'Technologies:  R, ggplot, d3.js, R Markdown, R Studio'
     },
     {
         id: 3,
         category: 'Software Development',
         image: application,
         link1: 'https://github.com/maheshjindal/automated_fare_tracking_system',
-        title: 'Automated Travel and Expense Management System - Software and Analytics',
-        text: 'Technologies: Java, Spring Boot, Python, Google Firebase, Maven, Docker, MYSQL, Bash Scripting'
+        title: 'Automated Travel Fare and Expense Management System - Software and Analytics',
+        text: 'Technologies: Java, Spring Boot, Python, Google Firebase, Google Analytics, Maven, Docker, MYSQL, Bash Scripting'
     },
     {
         id: 4,
         category: 'Software Development',
         image: application,
         link1: 'https://github.com/maheshjindal/fsclient',
-        title: 'A CLI based File System using Scala',
-        text: 'Technologies: Scala, JVM'
+        title: 'A native File System using Scala',
+        text: 'Technologies: Scala, JVM, SBT, IntelliJ Idea'
     },
     {
         id: 5,
@@ -45,15 +45,15 @@ const portfolios = [
         image: application,
         link1: 'https://github.com/maheshjindal/maheshjindal.github.io',
         title: 'Responsive Portfolio Website',
-        text: 'Technologies:  ReactJs, HTML, CSS, Javascript'
+        text: 'Technologies: ReactJs, ParticleJs, HTML, CSS, Javascript, VSCode'
     },
     {
         id: 6,
         category: 'Data Science',
         image: data,
-        link1: 'https://github.com/maheshjindal/climatorial_temoral_analysis',
-        title: 'Climate Analysis of USA states using Big Data',
-        text: 'Technologies: Data Transformation and Preprocessing, Big Data Analysis using PySpark, Python, Numpy'
+        link1: 'https://github.com/maheshjindal/climate_analysis_modelling',
+        title: 'Data Modelling for climate analysis of USA states using Big Data',
+        text: 'Technologies: Python, Numpy, Pandas, PySpark, Jupyter Notebook'
     },
     {
         id: 7,
@@ -61,34 +61,26 @@ const portfolios = [
         image: application,
         link1: 'https://github.com/maheshjindal/bookreader',
         title: 'Comic Book Reader App for iOS',
-        text: 'Technologies: Swift, iOS Development Framework'
+        text: 'Technologies: Swift, UIKit, StoreKit, XCode'
     },
     {
         id: 8,
         category: 'Data Science',
         image: data,
-        link1: 'https://github.com/maheshjindal/supervised_ml_projects',
-        title: 'Machine Learning Algorithms Implementation from Scrach',
-        text: 'Technologies:  Numpy, Pandas, Matplotlib, Python'
+        link1: 'https://github.com/maheshjindal/find_charity_donors',
+        title: 'Supervised ML model for finding Charity Donors',
+        text: 'Technologies:  Python, Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook'
     },
     {
         id: 9,
         category: 'Data Science',
         image: data,
-        link1: 'https://github.com/maheshjindal/ml_projects/tree/master/finding_donors',
-        title: 'Supervised ML model for finding Charity Donors',
-        text: 'Technologies:  Scikit-Learn, Python, Jupyter Notebook, Matplotlib, Seaborn, Numpy, Pandas'
+        link1: 'https://github.com/maheshjindal/customer_segments',
+        title: 'Usupervised ML to analyse and create customer Segments',
+        text: 'Technologies:  Python, Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook'
     },
     {
         id: 10,
-        category: 'Data Science',
-        image: data,
-        link1: 'https://github.com/maheshjindal/ml_projects/tree/master/customer_segments',
-        title: 'Usupervised ML to analyse and create Customer Segments',
-        text: 'Technologies:  Scikit-Learn, Python, Jupyter Notebook, Matplotlib, Seaborn, Numpy, Pandas'
-    },
-    {
-        id: 11,
         category: 'Software Development',
         image: application,
         link1: 'https://www.chitkara.edu.in/news/chitkara-university-team-gully-gang-bag-first-prize-at-sih-2019/',

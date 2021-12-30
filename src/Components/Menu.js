@@ -52,6 +52,7 @@ const MenuItemStyled = styled.div`
             position: relative;
             overflow: hidden;
             h6{
+                margin-top: 4px;
                 font-size: 1.5rem;
             }
             img{
@@ -90,8 +91,15 @@ const MenuItemStyled = styled.div`
             }
 
             .portfolio-image{
-                width:80%;
-                /* margin: 0 auto; */
+                /* width:100%; */
+                padding: 5%;
+                margin: 0 2px;
+                border-top: 2px solid var(--primary-color);
+                border-left: 1px solid var(--primary-color);
+                border-right: 1px solid var(--primary-color);
+                border-bottom: 2px solid var(--primary-color);
+                border-radius: 2%;
+
                 &::before{
                     content: "";
                     position: absolute;
@@ -136,8 +144,8 @@ const MenuItemStyled = styled.div`
                 &::before{
                     height: calc(100% - 32%) ;
                     width: calc(100% - 4%);
-                    background-color: white;
-                    opacity: 0.9;
+                    background-color: var(--background-dark-grey);
+                    opacity: 0.4;
                     transform-origin: left;
                     
                     transition: all .4s ease-in-out;
