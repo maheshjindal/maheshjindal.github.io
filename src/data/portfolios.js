@@ -41,6 +41,14 @@ const portfolios = [
     },
     {
         id: 5,
+        category: 'Data Science',
+        image: application,
+        link1: 'https://github.com/maheshjindal/airflow-elt-pipeline',
+        title: 'ELT Pipeline using Airflow and AWS',
+        text: 'Python, Apache Airflow, AWS Redshift, AWS S3, AWS IAM'
+    },
+    {
+        id: 6,
         category: 'Software Development',
         image: application,
         link1: 'https://github.com/maheshjindal/maheshjindal.github.io',
@@ -48,7 +56,7 @@ const portfolios = [
         text: 'Technologies: ReactJs, ParticleJs, HTML, CSS, Javascript, VSCode'
     },
     {
-        id: 6,
+        id: 7,
         category: 'Data Science',
         image: data,
         link1: 'https://github.com/maheshjindal/climate_analysis_modelling',
@@ -56,7 +64,7 @@ const portfolios = [
         text: 'Technologies: Python, Numpy, Pandas, PySpark, Jupyter Notebook'
     },
     {
-        id: 7,
+        id: 8,
         category: 'Software Development',
         image: application,
         link1: 'https://github.com/maheshjindal/bookreader',
@@ -64,7 +72,7 @@ const portfolios = [
         text: 'Technologies: Swift, UIKit, StoreKit, XCode'
     },
     {
-        id: 8,
+        id: 9,
         category: 'Data Science',
         image: data,
         link1: 'https://github.com/maheshjindal/find_charity_donors',
@@ -72,7 +80,7 @@ const portfolios = [
         text: 'Technologies:  Python, Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook'
     },
     {
-        id: 9,
+        id: 10,
         category: 'Data Science',
         image: data,
         link1: 'https://github.com/maheshjindal/customer_segments',
@@ -80,7 +88,7 @@ const portfolios = [
         text: 'Technologies:  Python, Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook'
     },
     {
-        id: 10,
+        id: 11,
         category: 'Software Development',
         image: application,
         link1: 'https://www.chitkara.edu.in/news/chitkara-university-team-gully-gang-bag-first-prize-at-sih-2019/',
