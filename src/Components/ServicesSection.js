@@ -100,7 +100,10 @@ function ServicesSection() {
                                 "Seaborn": "https://seaborn.pydata.org/",
                                 "ggplot": "https://ggplot2.tidyverse.org/index.html",
                                 "Tableau": "https://www.tableau.com/",
-                                "D3.js": "https://d3js.org/"
+                                "D3.js": "https://d3js.org/",
+                                "Machine Learning Algorithms":"https://en.wikipedia.org/wiki/Machine_learning",
+                                "Neural Networks":"https://en.wikipedia.org/wiki/Neural_network",
+                                "Natural Language Processing":"https://en.wikipedia.org/wiki/Natural_language_processing"
 
                                 }
                             }

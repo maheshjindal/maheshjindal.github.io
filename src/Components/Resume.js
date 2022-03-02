@@ -19,8 +19,21 @@ function Resume() {
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
+                        year={'Jan 2022 - Present'} 
+                        title={'Graduate Research Assistant - Columbia Internet Real Time Computer Science Lab'}
+                        subTitle={'Columbia University in the city of New York'}
+                        text={['Working on the reserch, design and development of a distributed platform and machine learning models with Professor Henning Schulzrinne supporting integration of IOT devices.']} 
+                    />
+
+                    <ResumeItem 
+                        year={'Jan 2022 - Present'} 
+                        title={'Graduate Teaching Assistant - Large Scale Stream Processing Systems'}
+                        subTitle={'Columbia University in the city of New York - [Part-Time]'}
+                        text={['Working as a graduate teaching assistant responsible for taking coding sessions related to distribured systems and big data, grading assignments and clarifying subject related doubts of the students.']} 
+                    />
+                    <ResumeItem 
                         year={'Sept 2021 - Dec 2021'} 
-                        title={'Graduate Teaching Assistant in Reinforcement Learning'}
+                        title={'Graduate Teaching Assistant - Reinforcement Learning'}
                         subTitle={'Columbia University in the city of New York - [Part-Time]'}
                         text={['Worked as a graduate teaching assistant for the Reinforcement Learning course responsible for taking coding sessions, grading assignments and clarifying subject related doubts of the students.']} 
                     />
