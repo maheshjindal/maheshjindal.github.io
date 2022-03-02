@@ -22,7 +22,7 @@ function Resume() {
                         year={'Jan 2022 - Present'} 
                         title={'Graduate Research Assistant - Columbia Internet Real Time Computer Science Lab'}
                         subTitle={'Columbia University in the city of New York'}
-                        text={['Working on the reserch, design and development of a distributed platform and machine learning models with Professor Henning Schulzrinne supporting integration of IOT devices.']} 
+                        text={['Working on the research, design and development of a distributed platform and machine learning models with Professor Henning Schulzrinne supporting the integration of IOT devices.']} 
                     />
 
                     <ResumeItem 
