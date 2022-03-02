@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.eccab6d0.js",
+    "main.js": "/static/js/main.b3cb2275.js",
     "static/js/787.03a4e14a.chunk.js": "/static/js/787.03a4e14a.chunk.js",
     "static/media/ms.png": "/static/media/ms.08be9db50647cba3e940.png",
     "static/media/react_styled.png": "/static/media/react_styled.c23ef94e49e811227546.png",
@@ -9,7 +9,7 @@
     "static/media/avtar.png": "/static/media/avtar.1e975dd2f53b2d17cc6d.png",
     "static/media/maya-3.jpg": "/static/media/maya-3.8bd072e0038a01cb8a47.jpg",
     "static/media/maya-4.jpg": "/static/media/maya-4.98e8029ed991096bb93b.jpg",
-    "static/media/Resume_MaheshJindal.pdf": "/static/media/Resume_MaheshJindal.6edde00486b7e6b27cf4.pdf",
+    "static/media/Resume_MaheshJindal.pdf": "/static/media/Resume_MaheshJindal.db262010f2be83147ce7.pdf",
     "static/media/blog1.png": "/static/media/blog1.811f1c1231c6e752c70e.png",
     "static/media/cloudcomputing.svg": "/static/media/cloudcomputing.b813e03aca57b178e51a215e8790dfc7.svg",
     "static/media/intelligence.svg": "/static/media/intelligence.1d505b8478ed89e05b9c7aceff87c6c3.svg",
@@ -22,11 +22,11 @@
     "static/media/application.svg": "/static/media/application.e1aadb93e0db54ff8ac962c4c07c9c90.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.eccab6d0.js.map": "/static/js/main.eccab6d0.js.map",
+    "main.b3cb2275.js.map": "/static/js/main.b3cb2275.js.map",
     "787.03a4e14a.chunk.js.map": "/static/js/787.03a4e14a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.eccab6d0.js"
+    "static/js/main.b3cb2275.js"
   ]
 }
