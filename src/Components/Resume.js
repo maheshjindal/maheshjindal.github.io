@@ -19,6 +19,18 @@ function Resume() {
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
+                        year={'June 2022 - Present'} 
+                        title={'Data Science Research Intern'}
+                        subTitle={'Audible, an Amazon Company [Content Personalization and Search Team]'}
+                        text={['Performed research and analysis of customer data to capture weaknesses in existing Personalization ML models.',
+                        'Worked on research and data modelling of new Positional Bias model using contextual bandits and Bayesian Linear Probabilistic models for widget Personalization with Audible and Amazon P13N teams',
+                        'Designed and implemented a new ML framework for training Contextual Bandits and Bayesian Linear Probabilistic models with optimization algorithms using DS/Algorithms, Java, Spring, AWS Sage Maker and Step Functions.',
+                        'Worked on MLOps – Data Preprocessing, Model integration, versioning for deploying ML model to production.',
+                        'Received Accolades from manager and teammates for demonstrating outstanding technical and leadership skills.'
+                    ]}
+
+                    />
+                    <ResumeItem 
                         year={'Jan 2022 - Present'} 
                         title={'Graduate Research Assistant - Columbia Internet Real Time Computer Science Lab'}
                         subTitle={'Columbia University in the city of New York'}
@@ -26,7 +38,7 @@ function Resume() {
                     />
 
                     <ResumeItem 
-                        year={'Jan 2022 - Present'} 
+                        year={'Jan 2022 - May 2022'} 
                         title={'Graduate Teaching Assistant - Large Scale Stream Processing Systems'}
                         subTitle={'Columbia University in the city of New York - [Part-Time]'}
                         text={['Working as a graduate teaching assistant responsible for taking coding sessions related to distribured systems and big data, grading assignments and clarifying subject related doubts of the students.']} 
